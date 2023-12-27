@@ -1,0 +1,4 @@
+"scripts": {
+    "test": "json-server <C:\\Users\\a.klimentev\\source\\repos\\apiу\\db.json> --watch",
+  "generate-report": "allure generate allure-results --clean && allure open"
+}
